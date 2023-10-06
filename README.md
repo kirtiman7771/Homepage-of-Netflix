@@ -2,6 +2,7 @@
 This is a simple website having similar homepage that of Netflix using using HTML and CSS.
 
 
+
 Visit the website - [https://kirtiman7771.github.io/Homepage-of-Netflix/]
 
 
